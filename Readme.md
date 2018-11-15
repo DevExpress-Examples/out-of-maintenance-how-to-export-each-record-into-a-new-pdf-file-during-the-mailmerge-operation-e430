@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [DataHelper.cs](./CS/MailMergeEachRecordSeparatePDF/DataHelper.cs) (VB: [DataHelper.vb](./VB/MailMergeEachRecordSeparatePDF/DataHelper.vb))
+* [Form1.cs](./CS/MailMergeEachRecordSeparatePDF/Form1.cs) (VB: [Form1.vb](./VB/MailMergeEachRecordSeparatePDF/Form1.vb))
+* [Program.cs](./CS/MailMergeEachRecordSeparatePDF/Program.cs) (VB: [Program.vb](./VB/MailMergeEachRecordSeparatePDF/Program.vb))
+<!-- default file list end -->
 # How to export each record into a new PDF file during the MailMerge operation
 
 
